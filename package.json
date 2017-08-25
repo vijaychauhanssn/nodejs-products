@@ -1,0 +1,28 @@
+{
+  "name": "productapp",
+  "version": "1.0.0",
+  "description": "products",
+  "main": "app.js",
+  "scripts": {
+    "test": "ssn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijaychauhanssn/nodejs-products.git"
+  },
+  "keywords": [
+    "app"
+  ],
+  "author": "vijaychauhanssn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijaychauhanssn/nodejs-products/issues"
+  },
+  "homepage": "https://github.com/vijaychauhanssn/nodejs-products#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cores": "^0.8.5",
+    "cors": "^2.8.4",
+    "express": "^4.15.4"
+  }
+}
