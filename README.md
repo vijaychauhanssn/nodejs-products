@@ -2,8 +2,8 @@
 
 MEAN Stack User add products
 
-A demo and further details go to https://github.com/vijaychauhanssn/nodejs-products.git
+A demo and further details go to https://ssn.000webhostapp.com/
 
-Install npm install
+npm install
 
 test node server.js
